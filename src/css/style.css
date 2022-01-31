@@ -1,0 +1,25 @@
+/* font-family: 'Lato', sans-serif;
+font-family: 'Roboto', sans-serif; */
+/* 202020 */
+/* 18181 */
+
+/* font-color 18181 */
+
+/* second font color DEDEDE */
+* {
+  box-sizing: border-box;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+
